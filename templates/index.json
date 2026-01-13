@@ -49,6 +49,119 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_MJwhXy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pwfaNX": {
+          "type": "heading",
+          "settings": {
+            "text": "¿Por qué elegir EasyCut PRO?",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pwfaNX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_bAby3j": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iQt6Ai": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_iQt6Ai"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "rich_text_KCeMGD": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_pWxcwd": {
+          "type": "subheading",
+          "settings": {
+            "text": "ANTES / DESPUÉS"
+          }
+        },
+        "heading_fQQTqx": {
+          "type": "heading",
+          "settings": {
+            "text": "¡Vea la diferencia!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pWxcwd",
+        "heading_fQQTqx"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_ddMgDD": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi_column_4ANRhf": {
       "type": "multi-column",
       "blocks": {
@@ -493,6 +606,10 @@
   },
   "order": [
     "slideshow",
+    "rich_text_MJwhXy",
+    "slideshow_bAby3j",
+    "rich_text_KCeMGD",
+    "video_ddMgDD",
     "multi_column_4ANRhf",
     "featured_product_7kJQPA",
     "rich_text_X3zp8L",
