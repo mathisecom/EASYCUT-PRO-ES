@@ -27,11 +27,19 @@
             "text": "Envío Gratuito",
             "url": ""
           }
+        },
+        "message_CRJnM7": {
+          "type": "message",
+          "settings": {
+            "text": "✦ LIQUIDACIÓN DE INVIERNO ✦",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_GmaK6A"
+        "message_GmaK6A",
+        "message_CRJnM7"
       ],
       "settings": {
         "enable_sticky": false,
