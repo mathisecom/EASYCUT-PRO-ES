@@ -55,6 +55,7 @@
         "item_3JdDDw": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/9e24428b6e4b49fda0d01125e5bd73fa.HD-720p-1.6Mbps-58526138 (1).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -67,6 +68,7 @@
         "item_GBwPFT": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202511271206 (3) (1).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -79,6 +81,7 @@
         "item_TFBnwQ": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/2cc4b9ca6c01488393d364e73830e018.HD-720p-3.0Mbps-59255771 (1).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -91,6 +94,7 @@
         "item_YM6QAf": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202511271206 (1) (1).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
@@ -113,8 +117,8 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "",
-        "title": "",
+        "subheading": "LO HAN PROBADO Y APROBADO.",
+        "title": "Más de 5.000 horas de trabajo ahorradas",
         "content": "",
         "background": "",
         "background_gradient": "",
