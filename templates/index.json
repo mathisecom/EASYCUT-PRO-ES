@@ -295,6 +295,7 @@
         },
         "variant_picker_etHWpL": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": false,
@@ -306,6 +307,7 @@
         },
         "quantity_selector_eggTU8": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons_UrGBK4": {
