@@ -241,6 +241,12 @@
     "featured_product_7kJQPA": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qdJA6N": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title_EcjwAU": {
           "type": "title",
           "settings": {
@@ -308,6 +314,7 @@
         }
       },
       "block_order": [
+        "liquid_qdJA6N",
         "title_EcjwAU",
         "price_P3QHPz",
         "rating_MnWznq",
