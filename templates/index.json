@@ -244,13 +244,25 @@
         "liquid_qdJA6N": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <style>\n      .badges-container {\n        display: flex;\n        gap: 6px; /* Espacio entre los badges */\n        align-items: center;\n      }\n\n      .badge {\n        display: inline-block;\n        padding: 4px 10px;\n        font-size: 12px;\n        font-weight: bold;\n        color: white;\n        background: #FF6A00; /* Nuevo color */\n        border-radius: 15px;\n        text-transform: uppercase;\n        white-space: nowrap;\n      }\n    </style>\n\n    <div class=\"badges-container\">\n      <div class=\"badge\">Más vendido</div>\n      <div class=\"badge\">LIQUIDACIÓN DE INVIERNO -50%</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_KRfEWr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Estrellas\" width=\"63\" height=\"13\">\n    <span class=\"text-size\"><b>4,8/5</b> de 3.380 valoraciones</span>\n  </a>\n</div>"
           }
         },
         "title_EcjwAU": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_JcQCmD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
           }
         },
         "price_P3QHPz": {
@@ -315,7 +327,9 @@
       },
       "block_order": [
         "liquid_qdJA6N",
+        "liquid_KRfEWr",
         "title_EcjwAU",
+        "liquid_JcQCmD",
         "price_P3QHPz",
         "rating_MnWznq",
         "separator_mkJpkM",
@@ -328,7 +342,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "easycut-pro-pvc",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
