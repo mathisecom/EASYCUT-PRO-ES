@@ -669,7 +669,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#f5f6f7",
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
