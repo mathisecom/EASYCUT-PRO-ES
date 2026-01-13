@@ -480,8 +480,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "¡Sorprendentemente eficiente!",
+            "content": "<p>Elimina un fitting en segundos con un acabado limpio. Me ahorra mucho tiempo en cada trabajo.</p>"
           }
         },
         "testimonial_pJeT8K": {
@@ -491,8 +491,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Herramienta muy robusta.",
+            "content": "<p>Las cuchillas cortan perfectamente y apenas se desgastan. Mucho mejor que usar una pistola de aire caliente.</p>"
           }
         },
         "testimonial_fz63At": {
@@ -502,15 +502,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Funciona con todas mis taladradoras",
+            "content": "<p>Lo uso todos los días. Súper fácil y rápido. Imprescindible para cualquier fontanero.</p>"
+          }
+        },
+        "testimonial_tt37yc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "¡No más fittings quemados!",
+            "content": "<p>El corte es limpio y liso, sin calor ni olor. Mucho más limpio que los métodos antiguos.</p>"
+          }
+        },
+        "testimonial_EzUTM8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Fácil de manejar incluso en grandes diámetros.",
+            "content": "<p>Probado en 100 mm: funcionó a la perfección. ¡Muy recomendable!</p>"
           }
         }
       },
       "block_order": [
         "testimonial_jDWQQx",
         "testimonial_pJeT8K",
-        "testimonial_fz63At"
+        "testimonial_fz63At",
+        "testimonial_tt37yc",
+        "testimonial_EzUTM8"
       ],
       "name": "Testimonials",
       "settings": {
