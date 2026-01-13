@@ -79,8 +79,8 @@
           "settings": {
             "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_8.png",
             "image_width": 200,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "heading_size": "h5",
+            "title": "Suscríbete para recibir novedades y ofertas personalizadas",
             "content": ""
           }
         },
