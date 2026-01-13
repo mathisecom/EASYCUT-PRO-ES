@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Más de 3.000 Clientes Satisfechos",
+            "url": ""
+          }
+        },
+        "message_GmaK6A": {
+          "type": "message",
+          "settings": {
+            "text": "Envío Gratuito",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_GmaK6A"
       ],
       "settings": {
         "enable_sticky": false,
