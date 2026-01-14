@@ -728,6 +728,13 @@
             "title": "¿Qué ventajas tiene en comparación con un soplador de aire caliente?",
             "content": "<p>Más rápido y seguro (sin riesgo de quemaduras ni daños al PVC)<br/><br/>Más limpio (resultado uniforme y controlado)<br/><br/>No requiere cables de extensión ni calo</p>"
           }
+        },
+        "item_xqHp96": {
+          "type": "item",
+          "settings": {
+            "title": "¿Está certificado el producto?",
+            "content": "<p>Sí, cumple con RoHS, ha sido probado por SGS, está certificado CE y está fabricado con materiales certificados ISO/GB-T.</p>"
+          }
         }
       },
       "block_order": [
@@ -736,7 +743,8 @@
         "166442457738b23caf-2",
         "item_xTDLJH",
         "item_ahcHXA",
-        "item_EWw4t3"
+        "item_EWw4t3",
+        "item_xqHp96"
       ],
       "settings": {
         "full_width": false,
