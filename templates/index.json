@@ -128,7 +128,7 @@
           "type": "heading",
           "settings": {
             "text": "¡Vea la diferencia!",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -154,12 +154,14 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/202511281216 (6).mp4",
+        "mobile_video": "shopify://files/videos/202511281216 (6).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_4ANRhf": {
