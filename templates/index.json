@@ -753,8 +753,15 @@
         "item_PehdN3": {
           "type": "item",
           "settings": {
-            "title": "¿Pueden quedar virutas dentro de la tubería?",
-            "content": "<p>No. El EASYCUT PRO cuenta con un inserto interno que se ajusta al diámetro interior de la tubería. </p><p>Este inserto se fija firmemente en el PVC y evita deslizamientos o colocaciones incorrectas.</p><p>La herramienta se mantiene estable y segura incluso a altas velocidades.</p>"
+            "title": "¿Se puede usar en áreas de difícil acceso?",
+            "content": "<p>Sí. El desbarbador se suministra con un adaptador angular, lo que le permite trabajar fácilmente en esquinas, bajo fregaderos o detrás de muebles, sin necesidad de desmontar la instalación.</p>"
+          }
+        },
+        "item_kKyERq": {
+          "type": "item",
+          "settings": {
+            "title": "¿Funciona la herramienta también con diámetros grandes?",
+            "content": "<p>Absolutamente. La gama EASYCUT PRO utiliza tres cuchillas de carburo para un corte más rápido y limpio. Gracias a este diseño, la herramienta funciona sin esfuerzo y de manera eficaz incluso con diámetros grandes de hasta 100 mm.</p>"
           }
         }
       },
@@ -768,7 +775,8 @@
         "item_xqHp96",
         "item_M6zyfG",
         "item_6dqhTP",
-        "item_PehdN3"
+        "item_PehdN3",
+        "item_kKyERq"
       ],
       "settings": {
         "full_width": false,
