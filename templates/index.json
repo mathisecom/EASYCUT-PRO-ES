@@ -707,12 +707,36 @@
             "title": "¿Puedo usarlo con cualquier taladro o destornillador eléctrico?",
             "content": "<p>Sí, gracias a su vástago hexagonal, es compatible con todos los taladros estándar</p>"
           }
+        },
+        "item_xTDLJH": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es duradero? ¿Se desgastan rápidamente las cuchillas?",
+            "content": "<p>La herramienta está hecha de aluminio de alta calidad y puntas de carburo certificadas por ISO. Las cuchillas son duraderas y se pueden girar hasta 4 veces antes de necesitar ser reemplazadas.</p>"
+          }
+        },
+        "item_ahcHXA": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es difícil de usar?",
+            "content": "<p>No, es muy fácil: conéctelo al taladro, introdúzcalo en la tubería y déjelo trabajar. En pocos segundos, el casquillo se retira de manera limpia.</p>"
+          }
+        },
+        "item_EWw4t3": {
+          "type": "item",
+          "settings": {
+            "title": "¿Qué ventajas tiene en comparación con un soplador de aire caliente?",
+            "content": "<p>Más rápido y seguro (sin riesgo de quemaduras ni daños al PVC)<br/><br/>Más limpio (resultado uniforme y controlado)<br/><br/>No requiere cables de extensión ni calo</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_xTDLJH",
+        "item_ahcHXA",
+        "item_EWw4t3"
       ],
       "settings": {
         "full_width": false,
