@@ -742,6 +742,20 @@
             "title": "¿Es peligroso el desbarbador?",
             "content": "<p>No. El EASYCUT PRO cuenta con un inserto interno que se ajusta al diámetro interior de la tubería. </p><p>Este inserto se fija firmemente en el PVC y evita deslizamientos o colocaciones incorrectas.</p><p>La herramienta se mantiene estable y segura incluso a altas velocidades.</p>"
           }
+        },
+        "item_6dqhTP": {
+          "type": "item",
+          "settings": {
+            "title": "¿Pueden quedar virutas dentro de la tubería?",
+            "content": "<p>No. El pasador central expulsa automáticamente las virutas hacia el exterior. El proceso de desbarbado se realiza de manera limpia, sin residuos ni obstrucciones en la tubería.</p>"
+          }
+        },
+        "item_PehdN3": {
+          "type": "item",
+          "settings": {
+            "title": "¿Pueden quedar virutas dentro de la tubería?",
+            "content": "<p>No. El EASYCUT PRO cuenta con un inserto interno que se ajusta al diámetro interior de la tubería. </p><p>Este inserto se fija firmemente en el PVC y evita deslizamientos o colocaciones incorrectas.</p><p>La herramienta se mantiene estable y segura incluso a altas velocidades.</p>"
+          }
         }
       },
       "block_order": [
@@ -752,7 +766,9 @@
         "item_ahcHXA",
         "item_EWw4t3",
         "item_xqHp96",
-        "item_M6zyfG"
+        "item_M6zyfG",
+        "item_6dqhTP",
+        "item_PehdN3"
       ],
       "settings": {
         "full_width": false,
