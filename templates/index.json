@@ -735,6 +735,13 @@
             "title": "¿Está certificado el producto?",
             "content": "<p>Sí, cumple con RoHS, ha sido probado por SGS, está certificado CE y está fabricado con materiales certificados ISO/GB-T.</p>"
           }
+        },
+        "item_M6zyfG": {
+          "type": "item",
+          "settings": {
+            "title": "¿Es peligroso el desbarbador?",
+            "content": "<p>No. El EASYCUT PRO cuenta con un inserto interno que se ajusta al diámetro interior de la tubería. </p><p>Este inserto se fija firmemente en el PVC y evita deslizamientos o colocaciones incorrectas.</p><p>La herramienta se mantiene estable y segura incluso a altas velocidades.</p>"
+          }
         }
       },
       "block_order": [
@@ -744,7 +751,8 @@
         "item_xTDLJH",
         "item_ahcHXA",
         "item_EWw4t3",
-        "item_xqHp96"
+        "item_xqHp96",
+        "item_M6zyfG"
       ],
       "settings": {
         "full_width": false,
