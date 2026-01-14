@@ -690,22 +690,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "¿Para qué se utiliza exactamente esta herramienta?",
+            "content": "<p>Le permite quitar un casquillo de PVC ya pegado de manera muy fácil con un taladro, sin necesidad de soplador de aire caliente y sin romperlo innecesariamente.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "¿Con qué diámetros de tubería es compatible?",
+            "content": "<p>El desbarbador de PVC está especialmente diseñado para los diámetros más comunes: 32, 40, 50 y 100 mm. Solo es adecuado para tuberías de desagüe de PVC, no para tuberías de presión.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "¿Puedo usarlo con cualquier taladro o destornillador eléctrico?",
+            "content": "<p>Sí, gracias a su vástago hexagonal, es compatible con todos los taladros estándar</p>"
           }
         }
       },
