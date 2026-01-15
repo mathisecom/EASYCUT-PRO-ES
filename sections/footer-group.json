@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contáctanos",
-            "content": "<p><strong>Correo electrónico:</strong> hello@easycutpro.com</p><p><strong>Horario de atención:</strong></p><p>Lunes a viernes de 9:00 a 12:00 y de 14:00 a 18:00</p><p>Sábado y domingo de 10:00 a 12:00</p>",
+            "content": "<p><strong>Correo electrónico:</strong> <strong>hello@easycut-pro.com</strong></p><p><strong>Horario de atención:</strong></p><p>Lunes a viernes de 9:00 a 12:00 y de 14:00 a 18:00</p><p>Sábado y domingo de 10:00 a 12:00</p>",
             "enable_follow_on_shop": true
           }
         }
