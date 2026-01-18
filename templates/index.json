@@ -337,9 +337,14 @@
         },
         "text_NGwA7g": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<h4><strong>EasyCut Pro Desbarbador de PVC</strong></h4>"
+            "text": "<h4><strong>EasyCut Pro Escariador para PVC</strong></h4>"
+          }
+        },
+        "rapi_bundles_rapi_bundle_6j7LdL": {
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "easycut-pro-pvc"
           }
         },
         "liquid_WRdmW4": {
@@ -351,18 +356,21 @@
         },
         "title_EcjwAU": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h2"
           }
         },
         "price_Jpc6ny": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
         },
         "text_Bkg4ap": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Elige 4 brocas</strong>: 32 - 40 - 50 - 100 mm</p>"
           }
@@ -449,6 +457,7 @@
         "liquid_qdJA6N",
         "liquid_KRfEWr",
         "text_NGwA7g",
+        "rapi_bundles_rapi_bundle_6j7LdL",
         "liquid_WRdmW4",
         "title_EcjwAU",
         "price_Jpc6ny",
