@@ -14,6 +14,7 @@
       "blocks": {
         "slide-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/PC_10.jpg",
             "mobile_image": "shopify://shop_images/BANNER_MOBILE_38.jpg",
@@ -33,10 +34,33 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "video_9nFGwb": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/easycut-home-video.mp4",
+            "mobile_video": "shopify://files/videos/easycut-home-video.mp4",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Elimina conexiones de PVC pegadas en segundos",
+            "heading_tag": "h2",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "slide-1"
+        "slide-1",
+        "video_9nFGwb"
       ],
       "settings": {
         "full_width": true,
