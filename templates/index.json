@@ -394,17 +394,10 @@
             "text": "<h4><strong>EasyCut Pro Escariador para PVC</strong></h4>"
           }
         },
-        "rapi_bundles_rapi_bundle_6j7LdL": {
-          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "easycut-pro-pvc"
-          }
-        },
         "liquid_WRdmW4": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<ul class=\"custom-bullet-points\">\n  <li>Acabado profesional inmediato</li>\n  <li>Ahorra tiempo en cada corte</li>\n  <li>Menos desperdicio, más margen</li>\n</ul>\n\n<style>\n.custom-bullet-points {\n  list-style: none; /* enlève les puces classiques */\n  padding-left: 0;\n}\n\n.custom-bullet-points li {\n  position: relative;\n  padding-left: 25px; /* espace pour la puce personnalisée */\n  margin-bottom: 10px;\n  font-weight: 500;\n  font-size: 16px;\n}\n\n.custom-bullet-points li::before {\n  content: \"✓\"; /* tu peux remplacer par • ou une icône SVG */\n  position: absolute;\n  left: 0;\n  color: #FF6600; /* couleur de ta puce */\n  font-weight: bold;\n}\n</style>"
+            "liquid": "<ul class=\"custom-bullet-points\">\n  <li>Ahorro de tiempo enorme en obra</li>\n  <li>Cero riesgo de quemaduras o accidentes</li>\n  <li>Sin humos tóxicos ni decapantes</li>\n</ul>\n<style>\n.custom-bullet-points {\n  list-style: none; /* enlève les puces classiques */\n  padding-left: 0;\n}\n.custom-bullet-points li {\n  position: relative;\n  padding-left: 25px; /* espace pour la puce personnalisée */\n  margin-bottom: 10px;\n  font-weight: 500;\n  font-size: 16px;\n}\n.custom-bullet-points li::before {\n  content: \"✓\"; /* tu peux remplacer par • ou une icône SVG */\n  position: absolute;\n  left: 0;\n  color: #FF6600; /* couleur de ta puce */\n  font-weight: bold;\n}\n</style>"
           }
         },
         "title_EcjwAU": {
@@ -472,6 +465,12 @@
           "disabled": true,
           "settings": {}
         },
+        "rapi_bundles_rapi_bundle_6j7LdL": {
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "easycut-pro-pvc"
+          }
+        },
         "buy_buttons_UrGBK4": {
           "type": "buy_buttons",
           "settings": {
@@ -510,7 +509,6 @@
         "liquid_qdJA6N",
         "liquid_KRfEWr",
         "text_NGwA7g",
-        "rapi_bundles_rapi_bundle_6j7LdL",
         "liquid_WRdmW4",
         "title_EcjwAU",
         "price_Jpc6ny",
@@ -521,6 +519,7 @@
         "description_ATmjX9",
         "variant_picker_etHWpL",
         "quantity_selector_eggTU8",
+        "rapi_bundles_rapi_bundle_6j7LdL",
         "buy_buttons_UrGBK4",
         "liquid_GpaXnp",
         "liquid_qyqp9U",
