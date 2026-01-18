@@ -247,19 +247,6 @@
     "multi_column_4ANRhf": {
       "type": "multi-column",
       "blocks": {
-        "item_3JdDDw": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/9e24428b6e4b49fda0d01125e5bd73fa.HD-720p-1.6Mbps-58526138 (1).mp4",
-            "column_size": "4",
-            "title": "Carlos Martínez – Martínez-Construcciones Iberia",
-            "heading_tag": "h5",
-            "content": "<p>Antes, cada vez era la misma lucha: sacar la pistola de aire caliente, buscar un enchufe, desenrollar 20 metros de cable… Desde que tengo esta herramienta, llego, retiro lo que necesito y sigo trabajando. Simple, rápido, eficiente. Realmente ha cambiado mi flujo de trabajo en la obra.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_GBwPFT": {
           "type": "item",
           "settings": {
@@ -268,6 +255,19 @@
             "title": "Javier López – López-Obras y Reformas",
             "heading_tag": "h5",
             "content": "<p>Antes perdíamos muchísimo tiempo solo preparando la pistola de aire caliente. Ahora el trabajo empieza al instante. Para reparaciones rápidas o reformas completas, esta herramienta se ha convertido en un imprescindible en nuestra caja de herramientas.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3JdDDw": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/9e24428b6e4b49fda0d01125e5bd73fa.HD-720p-1.6Mbps-58526138 (1).mp4",
+            "column_size": "4",
+            "title": "Carlos Martínez – Martínez-Construcciones Iberia",
+            "heading_tag": "h5",
+            "content": "<p>Antes, cada vez era la misma lucha: sacar la pistola de aire caliente, buscar un enchufe, desenrollar 20 metros de cable… Desde que tengo esta herramienta, llego, retiro lo que necesito y sigo trabajando. Simple, rápido, eficiente. Realmente ha cambiado mi flujo de trabajo en la obra.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -301,8 +301,8 @@
         }
       },
       "block_order": [
-        "item_3JdDDw",
         "item_GBwPFT",
+        "item_3JdDDw",
         "item_TFBnwQ",
         "item_YM6QAf"
       ],
@@ -349,9 +349,14 @@
         },
         "title_EcjwAU": {
           "type": "title",
-          "disabled": true,
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "price_Jpc6ny": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
           }
         },
         "liquid_JcQCmD": {
@@ -438,6 +443,7 @@
         "text_NGwA7g",
         "liquid_WRdmW4",
         "title_EcjwAU",
+        "price_Jpc6ny",
         "liquid_JcQCmD",
         "rating_MnWznq",
         "separator_mkJpkM",
