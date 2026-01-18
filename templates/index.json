@@ -337,12 +337,14 @@
         },
         "text_NGwA7g": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<h4><strong>EasyCut Pro Desbarbador de PVC</strong></h4>"
           }
         },
         "liquid_WRdmW4": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<ul class=\"custom-bullet-points\">\n  <li>Acabado profesional inmediato</li>\n  <li>Ahorra tiempo en cada corte</li>\n  <li>Menos desperdicio, más margen</li>\n</ul>\n\n<style>\n.custom-bullet-points {\n  list-style: none; /* enlève les puces classiques */\n  padding-left: 0;\n}\n\n.custom-bullet-points li {\n  position: relative;\n  padding-left: 25px; /* espace pour la puce personnalisée */\n  margin-bottom: 10px;\n  font-weight: 500;\n  font-size: 16px;\n}\n\n.custom-bullet-points li::before {\n  content: \"✓\"; /* tu peux remplacer par • ou une icône SVG */\n  position: absolute;\n  left: 0;\n  color: #FF6600; /* couleur de ta puce */\n  font-weight: bold;\n}\n</style>"
           }
