@@ -465,12 +465,6 @@
           "disabled": true,
           "settings": {}
         },
-        "rapi_bundles_rapi_bundle_6j7LdL": {
-          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "easycut-pro-pvc"
-          }
-        },
         "buy_buttons_UrGBK4": {
           "type": "buy_buttons",
           "settings": {
@@ -519,7 +513,6 @@
         "description_ATmjX9",
         "variant_picker_etHWpL",
         "quantity_selector_eggTU8",
-        "rapi_bundles_rapi_bundle_6j7LdL",
         "buy_buttons_UrGBK4",
         "liquid_GpaXnp",
         "liquid_qyqp9U",
