@@ -361,6 +361,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_Bkg4ap": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Elige 4 brocas</strong>: 32 - 40 - 50 - 100 mm</p>"
+          }
+        },
         "liquid_JcQCmD": {
           "type": "liquid",
           "settings": {
@@ -446,6 +452,7 @@
         "liquid_WRdmW4",
         "title_EcjwAU",
         "price_Jpc6ny",
+        "text_Bkg4ap",
         "liquid_JcQCmD",
         "rating_MnWznq",
         "separator_mkJpkM",
