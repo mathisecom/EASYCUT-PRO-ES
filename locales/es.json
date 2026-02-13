@@ -439,5 +439,12 @@
         "other": "Ha recibido {{ count }} reseñas."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "optional_phone_label": "Teléfono (Recomendado para la entrega)"
+      }
+    }
   }
 }
